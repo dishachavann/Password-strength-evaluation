@@ -6,7 +6,7 @@ To understand what makes a password strong and evaluate different passwords usin
 
 ##  Task Overview
 -  Created multiple passwords with varying complexity.
--  Evaluated them using (https://www.passwordmeter.com/).
+-  Evaluated them using (https://passwordmeter.com/)
 -  Analyzed feedback and learned password best practices.
 
 
